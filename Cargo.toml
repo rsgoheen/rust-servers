@@ -1,0 +1,7 @@
+[workspace]
+name = "scenario_one"
+members = [
+    "tcpserver", "tcpclient", "http", "httpserver"
+]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
